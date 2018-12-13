@@ -4,8 +4,8 @@
 # In[ ]:
 
 
-#CS 452 Final Code: Exposure Splicing
-# Lily Kuntz, Lucy Pappas, Ali Scannell
+# Exposure Splicing
+# Lily Kuntz
 from tkinter import *
 from tkinter import filedialog
 from PIL import Image, ImageTk
